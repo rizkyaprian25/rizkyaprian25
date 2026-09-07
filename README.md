@@ -7,6 +7,12 @@
   <img alt="Rizky Aprian" src="https://raw.githubusercontent.com/rizkyaprian25/rizkyaprian25/main/light.svg">
 </picture>
 
+<!-- ===== TYPING ANIMATION ===== -->
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=620&lines=Web+Developer;Python+%26+Flask;Route+Optimization+%26+ML;Building+%2B+Learning+%2B+Shipping" alt="Typing animation" />
+</div>
+
 <!-- ===== GITHUB STATS ===== -->
 
 <div align="center">
@@ -27,6 +33,24 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=rizkyaprian25&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
   <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=rizkyaprian25&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
+</picture>
+
+</div>
+
+<!-- ===== TROPHY + TECH STACK ===== -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=rizkyaprian25&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rizkyaprian25&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,flask,js,ts,html,css,dart,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,flask,js,ts,html,css,dart,git,github,vscode&theme=light" alt="Tech stack" />
 </picture>
 
 </div>
@@ -77,6 +101,10 @@
 &nbsp;&nbsp;
 -->
 
+</div>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rizkyaprian25&color=22D3EE&style=flat&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
 
 <!-- ===== END SOCIAL BADGES ===== -->
