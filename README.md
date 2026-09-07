@@ -58,16 +58,15 @@
 </div>
 
 <!-- ===== SOCIAL BADGES ===== -->
-<!-- TODO: cek link LinkedIn & Instagram di bawah, ganti jika salah.
-     TODO: tambah badge Email — lihat contoh yang dikomentari di bawah. -->
+<!-- TODO: tambah badge Email — buka komentar di bawah, ganti ALAMAT-EMAIL-KAMU. -->
 <br/>
 <div align="center">
 
-<a href="https://www.linkedin.com/in/rizkyaprian25/">
+<a href="https://www.linkedin.com/in/rizky-aprian-043b25360/">
   <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A101F" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.instagram.com/rizkyaprian25/">
+<a href="https://www.instagram.com/rizky.aprian.25/">
   <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
 </a>
 &nbsp;&nbsp;
