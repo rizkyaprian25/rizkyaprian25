@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Bogor Smart Tourism",
+    "repo": "rizkyaprian25/bogor-smart-tourism-v2",
+    "description": "Perencanaan rute wisata Kota Bogor dengan prediksi kemacetan real-time (Random Forest) dan optimasi rute (OR-Tools)",
+    "tags": ["Python", "Flask", "Machine Learning"]
+  },
+  {
+    "name": "Money Tracker",
+    "repo": "rizkyaprian25/money-tracker",
+    "description": "Aplikasi pencatat keuangan pribadi",
+    "tags": ["JavaScript"]
+  },
+  {
+    "name": "Split Bill Tracker",
+    "repo": "rizkyaprian25/split-bill-tracker",
+    "description": "Aplikasi patungan dan bagi tagihan",
+    "tags": ["TypeScript"]
+  },
+  {
+    "name": "Profil Sekolah",
+    "repo": "rizkyaprian25/Profil-Sekolah",
+    "description": "Website profil sekolah",
+    "tags": ["JavaScript"]
+  },
+  {
+    "name": "Optimasi Sedot Tinja",
+    "repo": "rizkyaprian25/sistem-optimasi-sedot-tinja",
+    "description": "Sistem optimasi rute layanan sedot tinja",
+    "tags": ["JavaScript", "Optimization"]
+  },
+  {
+    "name": "SPK UMKM KMeans-SAW",
+    "repo": "rizkyaprian25/projek-kmeans-saw",
+    "description": "Website prioritas bantuan UMKM dengan K-Means dan SAW",
+    "tags": ["HTML", "Data Mining", "SPK"]
+  }
+]
