@@ -37,16 +37,9 @@
 
 </div>
 
-<!-- ===== TROPHY + TECH STACK ===== -->
+<!-- ===== TECH STACK ===== -->
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=rizkyaprian25&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
-  <img src="https://github-profile-trophy.vercel.app/?username=rizkyaprian25&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
-</picture>
-
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,flask,js,ts,html,css,dart,git,github,vscode&theme=dark" />
@@ -104,7 +97,7 @@
 </div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rizkyaprian25&color=22D3EE&style=flat&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=rizkyaprian25&label=PROFILE+VIEWS&color=22D3EE&style=for-the-badge" alt="Profile views" />
 </div>
 
 <!-- ===== END SOCIAL BADGES ===== -->
