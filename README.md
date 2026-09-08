@@ -42,8 +42,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,flask,js,ts,html,css,dart,git,github,vscode&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=python,flask,js,ts,html,css,dart,git,github,vscode&theme=light" alt="Tech stack" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,flask,js,ts,html,css,cpp,dart,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,flask,js,ts,html,css,cpp,dart,git,github,vscode&theme=light" alt="Tech stack" />
 </picture>
 
 </div>
@@ -96,11 +96,6 @@
 
 </div>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rizkyaprian25&label=PROFILE+VIEWS&color=22D3EE&style=for-the-badge" alt="Profile views" />
-</div>
-
 <!-- ===== END SOCIAL BADGES ===== -->
 
 <!-- =================================== -->
-"# rizkyaprian25" 
