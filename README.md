@@ -41,10 +41,7 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=dart,flutter,js,ts,react,nextjs,tailwind,html,css,python,flask,cpp,supabase,git,github,vscode&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=dart,flutter,js,ts,react,nextjs,tailwind,html,css,python,flask,cpp,supabase,git,github,vscode&theme=light" alt="Tech stack" />
-</picture>
+<img src="https://skillicons.dev/icons?i=dart,flutter,js,ts,react,nextjs,tailwind,html,css,python,flask,cpp,supabase,git,github,vscode" alt="Tech stack" />
 
 </div>
 
