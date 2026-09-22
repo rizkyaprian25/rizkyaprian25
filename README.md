@@ -10,7 +10,7 @@
 <!-- ===== TYPING ANIMATION ===== -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=620&lines=Web+Developer;Python+%26+Flask;Route+Optimization+%26+ML;Building+%2B+Learning+%2B+Shipping" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=620&lines=Web+Developer;Mobile+Developer;Building+%2B+Learning+%2B+Shipping" alt="Typing animation" />
 </div>
 
 <!-- ===== GITHUB STATS ===== -->
@@ -42,8 +42,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,flask,js,ts,html,css,cpp,dart,git,github,vscode&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=python,flask,js,ts,html,css,cpp,dart,git,github,vscode&theme=light" alt="Tech stack" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=dart,flutter,js,ts,react,nextjs,tailwind,html,css,python,flask,cpp,supabase,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,js,ts,react,nextjs,tailwind,html,css,python,flask,cpp,supabase,git,github,vscode&theme=light" alt="Tech stack" />
 </picture>
 
 </div>

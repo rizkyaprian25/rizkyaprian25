@@ -9,7 +9,7 @@
     "name": "Money Tracker",
     "repo": "rizkyaprian25/money-tracker",
     "description": "Aplikasi pencatat keuangan pribadi",
-    "tags": ["JavaScript"]
+    "tags": ["Flutter", "Dart"]
   },
   {
     "name": "rizkyaprian25",
@@ -21,13 +21,13 @@
     "name": "Baca Manhwa",
     "repo": "rizkyaprian25/baca-manhwa",
     "description": "Aplikasi baca manhwa",
-    "tags": ["Dart"]
+    "tags": ["Flutter", "Dart"]
   },
   {
     "name": "Bel Sekolah Otomatis",
     "repo": "rizkyaprian25/Bel-Sekolah-Otomatis",
     "description": "Sistem bel sekolah otomatis",
-    "tags": ["Dart"]
+    "tags": ["Flutter", "Dart"]
   },
   {
     "name": "Profil Sekolah",
